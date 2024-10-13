@@ -11,7 +11,7 @@
 
 
 [开始阅读](README.md)
-[Github](https://github.com/mapyJJJ)
+[善用Github搜索](https://github.com/search)
 
 
 <!-- background img -->
