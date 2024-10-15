@@ -1,6 +1,26 @@
 <!-- _navbar.md -->
 <!-- Title -->
 
+* 网页chat&论坛
+    * [telegram](https://web.telegram.org/)
+    * [reddit](https://www.reddit.com/)
+    * [slack](https://app.slack.com/)
+
+* 云服务商
+    * [github平台即服务](https://github.com/)
+    * [cloudflare]()
+    * [amazon](https://aws.amazon.com/)
+    * [heroku](https://www.heroku.com/)
+    * [encore](https://encore.dev/)
+    * [腾讯云优惠](https://cloud.tencent.com/act/pro/Featured)
+
+* 邮件服务
+    * [proton](https://proton.me/)
+    * [gmail](https://mail.google.com/)
+    * [outlook](https://outlook.live.com/mail/)
+    * [yopmail-Temp](https://yopmail.com/)
+    * [internxt-Temp](https://internxt.com/zh/temporary-email)
+
 * 创作素材&灵感
     * [iconfont图标](https://www.iconfont.cn/)
     * [fontAwesome图标](https://fontawesome.com.cn/v5)
@@ -37,16 +57,12 @@
     * [PDF工具包](https://smallpdf.com/cn/pdf-tools)
     * [思维脑图](https://www.mindline.cn/webapp)
 
-* AI使用
+* AIGC
+    * [chatgpt](https://chatgpt.com/)
     * [AI提示提](https://www.jyshare.com/front-end/9127/)
     * [豆包AI](https://www.doubao.com/chat/)
     * [文心一言](https://yiyan.baidu.com/)
     * [豆包编程助手](https://www.marscode.cn/)
-
-* 开源项目
-    * [github加速服务](https://github.com/hunshcn/gh-proxy)
-    * [cf图床搭建](https://github.com/MarSeventh/CloudFlare-ImgBed)
-    * [onenav文档](https://doc.xiaoz.org/books/onenav/page/a1d0c)
 
 * 教程文档
     * [wordpress主题](https://cn.wordpress.org/themes/)
@@ -72,5 +88,10 @@
     * [架构笔记](https://zq99299.github.io/note-architect/hc/)
     * [凤凰架构](https://icyfenix.cn/)
     * [更多技术文档...]()
-    
+
+* 杂项
+    * [wappalyzer流行前端技术分析统计](https://www.wappalyzer.com/technologies/)
+
+* chrome插件
+    * [wappalyzer](https://www.wappalyzer.com/)
 
