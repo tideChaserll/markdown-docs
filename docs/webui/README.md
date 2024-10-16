@@ -8,4 +8,7 @@
 [magicUI](https://magicui.design/docs/components/dock) - 包含很多丝滑的交互组件   
 [awwwards](https://www.awwwards.com/) - 艺术气息浓厚的网页模版，可以着重关注里面的一些亮点设计   
 [Emotion](https://emotion.sh/docs/introduction) - 一个在js中编写css样式的库，更适合ui交互的一些场景   
+[vercel-templates](https://vercel.com/templates) - vercel上的应用模版，可以了解常见的前后端技术搭配，当然提供的模版网站的样式同样值得借鉴。  
+[geist mono font](https://befonts.com/geist-mono-font-family.html) - 高颜值的字体
+
 
