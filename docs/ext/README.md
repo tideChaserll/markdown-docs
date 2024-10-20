@@ -31,4 +31,7 @@ Cookie-Editor (网站cookie查看，对于开发很有用)
 > 如果是一些 值得学习的教程，或者文档文章地址，或者你很喜欢某个网站的ui风格，推荐将他们记录到你的云笔记或者知识文档中，并加以说明,   
 > 否则只是收藏到书签中，也没有定期整理分类，大概率会变成垃圾收藏,   
 
+---
+
+[Immersive Translate](https://chromewebstore.google.com/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6-pdf%E7%BF%BB%E8%AF%91-%E5%85%8D%E8%B4%B9/bpoadfkcbjbfhfodiogcnhhhpibjhbnh) （沉浸式翻译）
 
