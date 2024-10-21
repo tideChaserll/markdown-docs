@@ -6,5 +6,6 @@
 * [开发常用软件](software/)
 * [优雅搭建开发环境](develop/)
     * [vscode配置](develop/)
+    * [git工具配置](develop/GIT.md)
 * [花里胡哨的网页设计](webui/)
 * [云原生你所需要了解的](cloud/)
