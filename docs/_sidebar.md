@@ -11,4 +11,5 @@
 * [技术文章](articles/)
     * [coludflare proxy](articles/cfproxy.md)
     * [js相等性判断](articles/js1.md)
+    * [js bigint类型](articles/js2.md)
 * [云原生你所需要了解的](cloud/)
