@@ -4,6 +4,7 @@
 * [开源项目推荐](opensource/)
 * [chrome插件推荐](ext/)   
 * [开发常用软件](software/)
+* [网络访问](vpn/)
 * [优雅搭建开发环境](develop/)
     * [vscode配置](develop/)
     * [git工具配置](develop/GIT.md)
